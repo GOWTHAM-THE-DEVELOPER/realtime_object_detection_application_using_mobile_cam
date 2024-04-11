@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yolo_deploy</string>
+    <string name="predict">predict</string>
+    <string name="copyright2024_batch_12">COPYRIGHT2024_BATCH_12</string>
+</resources>
